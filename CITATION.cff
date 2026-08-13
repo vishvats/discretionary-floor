@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "The Discretionary Floor: Regime-Switching Margin Procyclicality in Indian Index Derivatives"
+message: "If you use this code, please cite the paper."
+type: software
+authors:
+  - family-names: Singh
+    given-names: Prajeet
+    affiliation: "BITS Pilani"
+  - family-names: Vishwam
+    given-names: Vatsal
+    affiliation: "BITS Pilani"
