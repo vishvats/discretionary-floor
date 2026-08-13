@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+
+# generated
+panel/*
+figures/*
+!panel/.gitkeep
+!figures/.gitkeep
+nse_data/
+_state.json
