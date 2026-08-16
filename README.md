@@ -20,8 +20,6 @@ they can be read and checked. Developed on pandas 3.0 and numpy 2.5.
 python build_panel.py
 python classify_binding.py
 python make_figures.py
-python verify_paper_numbers.py
-python audit_tests.py
 ```
 
 `build_panel.py` and `classify_binding.py` write to `panel/`, `make_figures.py`
